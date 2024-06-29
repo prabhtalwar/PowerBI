@@ -1,4 +1,4 @@
-# PowerBI
+# PowerBI DashBoard - Transcations
 
 I've just completed a comprehensive analysis of approval rates by issuing banks using Power BI. This dashboard -Trancations provides valuable insights into financial performance, helping us make data-driven decisions to improve the processes.
 
