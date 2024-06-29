@@ -1,6 +1,6 @@
 # PowerBI
 
-I've just completed a comprehensive analysis of approval rates by issuing banks using Power BI. This dashboard provides valuable insights into financial performance, helping us make data-driven decisions to improve the processes.
+I've just completed a comprehensive analysis of approval rates by issuing banks using Power BI. This dashboard -Trancations provides valuable insights into financial performance, helping us make data-driven decisions to improve the processes.
 
 📊 Key Features:
 * Approval Rates by Bank: A bar chart showing the approval rates across different banks, with BANK1002 leading at 70%.
